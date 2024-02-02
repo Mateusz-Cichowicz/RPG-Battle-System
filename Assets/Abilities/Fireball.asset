@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c3f4ff3ca29c414a9c5f8ef29ef17a3, type: 3}
+  m_Name: Fireball
+  m_EditorClassIdentifier: 
+  icon: {fileID: 0}
+  name: Fireball
+  cooldownTime: 5
+  activeTime: 5
+  cursor: {fileID: 2800000, guid: 442311c923fee7a4c97faa6fdeb43d7d, type: 3}
+  fireballPrefab: {fileID: 1584896591846210934, guid: f406648fdef33674594a7b8f66c15321, type: 3}
+  damage: 10
+  radius: 10
